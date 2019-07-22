@@ -1,4 +1,4 @@
-# reset.css
+# [reset.css](https://www.npmjs.com/package/@eleven.xi/reset.css)
 
 > 基于normalize，整合了 pc 和 mobile 各自需要的 reset。
 
