@@ -1,7 +1,7 @@
 {
   "name": "@eleven.xi/reset.css",
-  "version": "1.0.1",
-  "description": "网页reset方案,PC&mobile",
+  "version": "1.0.2",
+  "description": "H5 网页 reset 方案,PC&mobile",
   "main": "lib/reset.css",
   "scripts": {
     "pub": "npm publish --access=public"

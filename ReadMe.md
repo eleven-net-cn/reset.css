@@ -1,6 +1,6 @@
 # [reset.css](https://www.npmjs.com/package/@eleven.xi/reset.css)
 
-> 基于normalize，整合了 pc 和 mobile 各自需要的 reset。
+> H5 网页 reset 方案，PC&mobile，基于normalize。
 
 ## Installation
 
@@ -13,12 +13,12 @@ npm i @eleven.xi/reset.css
 #### Yarn
 
 ```js
-yarn i @eleven.xi/reset.css
+yarn add @eleven.xi/reset.css
 ```
 
 ## Getting Started
 
 ```js
-// 项目中尽量靠前的位置导入
-import('@eleven.xi/reset.css')
+// 作为样式的第一位置导入
+import '@eleven.xi/reset.css'
 ```
