@@ -1,6 +1,6 @@
 # [reset.css](https://www.npmjs.com/package/@eleven.xi/reset.css)
 
-> H5 网页 reset 方案，PC&mobile，基于normalize。
+> H5 网页 reset 方案，PC&mobile。基于[Normalize](https://github.com/necolas/normalize.css) 做了整合，Normalize 仅 reset 了 PC 浏览器的默认设置，缺少对移动端的处理，。
 
 ## Installation
 
