@@ -149,7 +149,8 @@ html {
   */
 
 body {
-  line-height: 1.5;
+  /* 全局设置行高，更适合放到项目的全局样式，放到 reset 不太合适。 */
+  /* line-height: 1.5; */
 }
 
 /**

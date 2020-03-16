@@ -1,6 +1,6 @@
 {
   "name": "@eleven.xi/reset.css",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "H5 网页 reset 方案,PC&mobile",
   "main": "lib/reset.css",
   "scripts": {
