@@ -1,11 +1,6 @@
-/* 
- * @Desc: 基于normalize,整合了pc和mobile各自需要的reset.
-    1.Normalize.css原版对移动端的reset不够完善;
-
- * @Author: Eleven 
- * @Date: 2018-04-06 16:51:10 
- * @Last Modified by: Eleven
- * @Last Modified time: 2019-07-22 11:26:39
+/**
+ * CSS Reset, PC & Mobile.
+ *  - 在 normalize 基础上扩展 mobile 需要的 reset（Normalize.css 对移动端的 reset 比较欠缺）。
  */
 
 /* ==========================================================================

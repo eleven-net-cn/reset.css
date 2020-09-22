@@ -1,14 +1,14 @@
 {
-  "name": "@eleven.xi/reset.css",
-  "version": "1.0.5",
-  "description": "H5 网页 reset 方案,PC&mobile",
+  "name": "@eleven.fe/reset.css",
+  "version": "1.0.0",
+  "description": "H5 网页 reset 方案,PC & Mobile",
   "main": "lib/reset.css",
   "scripts": {
     "release": "npm publish --access=public"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Eleven90/reset.css.git"
+    "url": "https://github.com/eleven-net-cn/reset.css.git"
   },
   "keywords": [
     "reset.css"
@@ -16,8 +16,8 @@
   "author": "Eleven",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Eleven90/reset.css/issues"
+    "url": "https://github.com/eleven-net-cn/reset.css/issues"
   },
-  "homepage": "https://github.com/Eleven90/reset.css#readme",
+  "homepage": "https://github.com/eleven-net-cn/reset.css#readme",
   "files": ["lib", "ReadMe.md"]
 }
