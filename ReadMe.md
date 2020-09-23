@@ -8,13 +8,13 @@ CSS Reset, PC & Mobile.
 
 #### NPM
 
-```js
+```bash
 npm i @eleven.fe/reset.css
 ```
 
 #### Yarn
 
-```js
+```bash
 yarn add @eleven.fe/reset.css
 ```
 

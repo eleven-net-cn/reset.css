@@ -1,6 +1,6 @@
 /**
  * CSS Reset, PC & Mobile.
- *  - 在 normalize 基础上扩展 mobile 需要的 reset（Normalize.css 对移动端的 reset 比较欠缺）。
+ *  - 在 https://github.com/necolas/normalize.css 基础上增加 mobile 需要的 reset，这份 reset 同时适用移动端、PC 端。
  */
 
 /* ==========================================================================
