@@ -24,6 +24,9 @@ yarn add @eleven.fe/reset.css
 ```js
 // 建议放到样式第一位最先导入（别忘记安装 postcss-import）
 @import '@eleven.fe/reset.css';
+
+// 在 CRA 创建的项目中如果提示错误，你可能需要在引入时添加 ~
+@import '~@xmly/reset.css';
 ```
 
 ### js
