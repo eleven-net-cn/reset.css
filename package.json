@@ -1,6 +1,6 @@
 {
   "name": "@eleven.fe/reset.css",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "CSS Reset, PC & Mobile",
   "main": "lib/reset.css",
   "scripts": {
