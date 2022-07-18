@@ -1,5 +1,11 @@
 # [reset.css](https://www.npmjs.com/package/@eleven.fe/reset.css)
 
+[![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url]
+
+[npm-url]:https://npmjs.org/package/@eleven.fe/reset.css
+[downloads-image]:https://img.shields.io/npm/dt/@eleven.fe/reset.css.svg
+[npm-image]:https://img.shields.io/npm/v/@eleven.fe/reset.css.svg
+
 CSS Reset, PC & Mobile.
 
 在 [Normalize.css](https://github.com/necolas/normalize.css) 基础上增加 mobile 需要的 reset，这份 reset 同时适用移动端、PC 端。
